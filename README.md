@@ -1,0 +1,2 @@
+# MallCustomerSegmentation
+SegmentationPractice
